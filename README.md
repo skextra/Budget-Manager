@@ -16,12 +16,6 @@ A feature-rich, interactive budget calculator built with vanilla HTML, CSS, and 
 
 ---
 
-## Screenshots
-
-> Dashboard overview with metric cards, expense table, donut chart, and savings goals.
-
----
-
 ## Tech Stack
 
 | Technology | Purpose |
@@ -32,23 +26,6 @@ A feature-rich, interactive budget calculator built with vanilla HTML, CSS, and 
 | Chart.js | Donut chart for spending breakdown |
 
 No build tools. No npm. No frameworks. Just open the file and it works.
-
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/budget-calculator.git
-   ```
-
-2. Open the file in your browser:
-   ```bash
-   cd budget-calculator
-   open index.html
-   ```
-
-That's it. No installation required.
 
 ---
 
