@@ -88,10 +88,7 @@ This project is great for beginners because it covers the core building blocks o
 
 ## Future Improvements
 
-- [ ] Export budget as PDF or CSV
 - [ ] Monthly vs annual toggle
-- [ ] Currency switcher
-- [ ] Local storage to save data between sessions
 - [ ] 50/30/20 rule checker
 - [ ] Dark mode toggle
 
@@ -99,12 +96,6 @@ This project is great for beginners because it covers the core building blocks o
 
 ## Author
 
-Built by **[Your Name]** as a self-assigned JavaScript learning project.
+Built by **Saad** as a self-assigned JavaScript learning project.
 
-Feel free to fork, improve, and make it your own!
-
----
-
-## License
-
-MIT License — free to use and modify.
+icense — free to use and modify.
